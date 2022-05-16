@@ -1,0 +1,147 @@
+хhtml, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+#nadpisi{text-align: center;
+}
+body {
+	line-height: 1;
+}
+
+ol, ul {
+	list-style: none;
+}
+
+blockquote, q {
+	quotes: none;
+}
+
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+ 
+html, body{height: 100%;}
+ 
+body{
+	background: #00246a;
+	color: #fff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#header{
+	background-color: green;
+	width: 1200px;
+	height: 50px;
+	margin: 0 auto;
+}
+
+#logo{background-color: brown; padding: 10px; border-color: red; width: 200px; height: 50px; float: left;}
+#button_bron{background-color: brown; padding: 10px; border-color: red; width: 200px; height: 50px; float: left;}
+#button_fillial{background-color: brown; padding: 10px; border-color: red; width: 200px; height: 50px; float: left;}
+#button_lk{background-color: brown; padding: 10px; border-color: red; width: 200px; height: 50px; float: left;}
+
+#button_vk{background-color: brown; padding: 10px; border-color: red; width: 50px; height: 50px; float: right;}
+#button_tg{background-color: brown; padding: 10px; border-color: red; width: 50px; height: 50px; float: right;}
+
+#footer{
+	background-color: green;
+	width: 1200px;
+	height: 150px;
+	margin: 0 auto;
+	margin-top: 10px;
+}
+
+#block_page{
+	background-color: gray;
+	width: 1200px;
+	height: 500px;
+	margin: 0 auto;
+}
+
+#left{
+	background-color: orange; width: 200px; height: 500px; margin-top: 0px; margin-left: 0px; float: left;
+}
+
+#form_search{
+	background-color: red;
+	width: 180px;
+	height: 150px;
+	margin: 0 auto;
+	margin-top: 20px;
+}
+
+h1{font-size: 20px; margin-bottom: 10px;}
+#p1{font-size: 50px; margin-bottom: 10px; text-align: center; margin-top: 25px;}
+
+#mashine_class{background-color: brown; padding: 10px; border-color: red; width: 100%; height: 50px;}
+#mashine_list{background-color: brown; padding: 10px; border-color: red; width: 100%; height: 50px;}
+#mashine_button{background-color: brown; padding: 10px; border-color: red; width: 100%; height: 40px;}
+
+
+#content{
+	background-color: white; width: 1000px; height: 500px; margin-top: 10px; margin-left: 200px;
+}
+
+#block_register_header{
+	background-color: blue; width: 955px; height: 100px; float: left; margin-left: 25px; margin-top: 20px;
+}
+
+#block_register{
+	background-color: blue; width: 955px; height: 300px; float: left; margin-left: 25px; margin-top: 20px;
+}
+
+#reg_forms{margin-left: 100px;}
+
+.forms_input {background-color: brown; padding: 2px; border-color: red; width:600px; height: 100%;}
+
+#submit{background-color: brown; padding: 2px; border-color: red; width: 600px; height: 25px;}
+
+#map {margin-left: 90px;}
+
+#button_bank{background-color: brown; padding: 10px; border-color: red; width: 100%; height: 40px;}
+#button_exit{background-color: brown; padding: 10px; border-color: red; width: 100%; height: 40px;}
